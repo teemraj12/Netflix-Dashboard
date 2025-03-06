@@ -1,4 +1,5 @@
-# 📊 Netflix Dashboard – Power BI
+# 📊 Netflix Dashboard – Power BI And Excel
+
 ## 🎬 Overview
 This Netflix Dashboard provides an in-depth analysis of Netflix's revenue, production trends, genre performance, awards, and country-wise distribution. The dashboard was created using Power BI, offering interactive insights into Netflix’s financial performance and content strategies.
 
